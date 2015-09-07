@@ -1,0 +1,10 @@
+dm_code: Mxxxxxxx
+login_id: xxxxxxxx
+password: xxxxxxxxxx
+download_dir: /path/to/dir
+owner_name: 浪江町様
+aws:
+  region: ap-northeast-1
+  s3:
+    bucket: xxxxxxxxxx
+    path: path/of/s3
